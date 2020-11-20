@@ -1,6 +1,6 @@
 # B2BTmoTutorial
 
-As a Lead Distributor Manager, I would like to provide visibility of new Leads to Team Members who are responsible for the Zip Code.
+As a Lead Distributor Manager, I would like to provide read/edit of new Leads to Team Members who are responsible for the Zip Code.
 
 ## Requirements
 

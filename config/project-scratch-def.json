@@ -1,0 +1,28 @@
+{
+  "orgName": "JCatter2 company",
+  "edition": "Enterprise",
+  "features": ["ProductsAndSchedules","CascadeDelete", "Knowledge", "AddCustomObjects:30", "AddCustomRelationships:10", "AdditionalFieldHistory:40","Communities", "EnablePRM"],
+  "settings": {
+    "communitiesSettings": {
+        "enableNetworksEnabled": true,
+        "enableEnablePRM": true
+    },
+    "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+    },
+    "quoteSettings": {
+      "enableQuote" : true
+    },
+    "opportunitySettings": {
+      "enableOpportunityFieldHistoryTracking": true
+    },
+    "securitySettings": {
+        "passwordPolicies": {
+            "enableSetPasswordInApi": true
+        }
+    },
+    "mobileSettings": {
+        "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
